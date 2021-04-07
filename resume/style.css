@@ -1,0 +1,33 @@
+h1{
+    color: black;
+    font-style: unset;
+    text-align: center;
+
+}
+img{
+    display: block;
+    margin-top:5%;
+    margin-left: 30%;
+    
+    
+}
+
+#heading1{
+    font-style: oblique;
+    text-align: left;
+    margin-top: -11%;
+    
+    
+}
+#pd{
+    text-align: left;    
+}
+
+#heading2{
+    font-style: oblique;
+    text-align: left;
+    margin-top:5%;
+}
+a:hover{
+    background-color: blue;
+}
